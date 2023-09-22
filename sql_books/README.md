@@ -1,6 +1,6 @@
 # Анализ базы данных сервиса для чтения книг по подписке
 
-[ipynb](https://github.com/Kelenaki/Portfolio/blob/main/Bank_analysis/Banks%20_analysis_of_customer_outflow.ipynb)
+[ipynb](https://github.com/Kelenaki/Portfolio/blob/main/sql_books/books_sql.ipynb)
 
 ## Описание проекта
 
